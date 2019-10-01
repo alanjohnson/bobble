@@ -8,4 +8,4 @@ bobble effect is based on:
 - how far the mouse slaps the face = more forse/bounce
 
 
-DEMO: https://skittlyoaten.github.io/bobble/
+DEMO: https://alanjohnson.github.io/bobble/
